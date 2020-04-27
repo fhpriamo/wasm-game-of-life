@@ -1,6 +1,6 @@
 # wasm-game-of-life
 
-[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) implementation built with [Rust](https://www.rust-lang.org "Rust language website") 🦀 and [WebAssembly](https://webassembly.org/ "WebAssembly website") 🕸.
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on the browser with [WebAssembly](https://webassembly.org/ "WebAssembly website") 🕸, built with [Rust](https://www.rust-lang.org "Rust language website") 🦀.
 
 This project is an adaptations of the sample codes found in the [rustwasm book](https://rustwasm.github.io/book/ "rustwasm book") and contains code directly drawn from its contents. Thus, it strives to accord with the rustwasm book licensing terms.
 

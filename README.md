@@ -16,7 +16,7 @@ You'll need npm and the Node.js runtime in order to run install the dependencies
 4. Run the web server on port 8080 with `npm run start`;
 5. Point your browser to `http://localhost:8080` to see it in action!; 😲
 
-## Files
+## 📁 Files
 
 - You can peek the essential Rust code used to generate the `.wasm` in `rust/lib.rs`;
 - The generate `.wasm` and respective JavaScript bindings can be found in `src/lib/`;

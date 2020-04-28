@@ -4,8 +4,6 @@
 
 ![Game of Life running in the browser](img/wasm-game-of-life.png "Game of Life running in the browser")
 
-This project is adapted from sample codes found in the [rustwasm book](https://rustwasm.github.io/book/ "rustwasm book") and contains contents directly drawn from the book. Thus, this project strives to accord with the rustwasm book licensing terms.
-
 ## 🚴 Running
 
 You'll need the npm command and the Node.js runtime in order to install the dependencies and run the app. You can download both in one take from the [Node.js project website](https://nodejs.org/en/).
@@ -20,3 +18,7 @@ You'll need the npm command and the Node.js runtime in order to install the depe
 
 - You can peek the essential Rust code used to generate the `.wasm` in `rust/lib.rs`;
 - The generated `.wasm` and respective JavaScript bindings can be found in `src/lib/`;
+
+## ⚖️ Licensing
+
+This project is a composition of several slightly adapted pieces of code from the [rustwasm book](https://rustwasm.github.io/book/ "rustwasm book"). Thus, it strives to accord with the rustwasm book licensing terms. Please, open an issue if you spot any license infrigement.
